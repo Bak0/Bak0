@@ -69,6 +69,6 @@ Welcome to my page; on my Github, you can find:
 
 ---
 
-   ![@Bak0](https://raw.githubusercontent.com/Bak0/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-   ![@Bak0](https://raw.githubusercontent.com/Bak0/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+   ![@Bak0](https://github.com/Bak0/github-stats-selfclone/tree/master/generated/overview.svg#gh-dark-mode-only)
+   ![@Bak0](https://github.com/Bak0/github-stats-selfclone/tree/master/generated/languages.svg#gh-dark-mode-only)
 
