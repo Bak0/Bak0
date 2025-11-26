@@ -1,8 +1,4 @@
-📢 Nominate ([@Bak0](https://github.com/Bak0/)) as **[GitHub Star](https://stars.github.com/nominate)**. If you appreciate his hard work and dedication to open source.
-
----
-
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, my name is Bak0.
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"> Hello, my name is Bak0.
 
 
 I am 🧙 Software Engineer and 👾 Security Researcher ( 🏆 8 x Listed in Google's Hall of Fame (TOP-100) )
