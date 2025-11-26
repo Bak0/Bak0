@@ -1,11 +1,13 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"> Hello, my name is Bak0.
 
 
-I am 🧙 Software Engineer and 👾 Security Researcher ( 🏆 8 x Listed in Google's Hall of Fame (TOP-100) )
+I am small tech Wizzard 🧙
+Mostly into infrastructure, cloud, Virtualization.
+I fiddle with code , some minor websites apps and attempts , hosting a lot of cool stuff, AI
 
+and with that
 Welcome to my page; on my Github, you can find:
-- Projects created by me 
-
+- Projects created by me.
 
 
 #### 📧 You can contact me on:
@@ -16,7 +18,6 @@ Welcome to my page; on my Github, you can find:
 
 #### 🔎 You can find me on: 
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)]()
 [![StackOverFlow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/31950489/bakk0)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardojfbago/)
 
@@ -26,7 +27,6 @@ Welcome to my page; on my Github, you can find:
 ![GITHUB Languages](https://raw.githubusercontent.com/Bak0/github-stats-selfclone/ce915fc0ce5ed7a768b0e06623e39b9985baec25/generated/languages.svg)
 
 --- 
-
 
 #### My current technology stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
@@ -58,6 +58,3 @@ Welcome to my page; on my Github, you can find:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
-
-
-
