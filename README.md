@@ -26,10 +26,8 @@ Welcome to my page; on my Github, you can find:
 
 
 #### 📜 Github stats:
-
-   ![](https://raw.githubusercontent.com/username/Bak0/github-stats-selfclone/tree/master/generated/overview.svg#gh-dark-mode-only)
-   ![](https://raw.githubusercontent.com/username/Bak0/github-stats-selfclone/tree/master/generated/languages.svg#gh-dark-mode-only)
-
+![GITHUB Stats](https://raw.githubusercontent.com//Bak0/github-stats-selfclone/tree/master/generated/overview.svg#gh-dark-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/Bak0/github-stats-selfclone/tree/master/generated/languages.svg#gh-dark-mode-only)
+![GITHUB Stats](https://raw.githubusercontent.com/Bak0/github-stats-selfclone/tree/master/generated/overview.svg#gh-light-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/Bak0/github-stats-selfclone/tree/master/generated/languages.svg#gh-light-mode-only)
 
 --- 
 
