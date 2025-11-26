@@ -27,7 +27,8 @@ Welcome to my page; on my Github, you can find:
 
 #### 📜 Github stats:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bak0)](https://github.com/anuraghazra/github-readme-stats)
+   ![](https://raw.githubusercontent.com/username/Bak0/github-stats-selfclone/tree/master/generated/overview.svg#gh-dark-mode-only)
+   ![](https://raw.githubusercontent.com/username/Bak0/github-stats-selfclone/tree/master/generated/languages.svg#gh-dark-mode-only)
 
 
 --- 
@@ -64,11 +65,5 @@ Welcome to my page; on my Github, you can find:
 
 ---
 
-####  I am 👾 Security Researcher and 🔏 Bug bounty hunter in free time.
 
-
----
-
-   ![@Bak0](https://github.com/Bak0/github-stats-selfclone/tree/master/generated/overview.svg#gh-dark-mode-only)
-   ![@Bak0](https://github.com/Bak0/github-stats-selfclone/tree/master/generated/languages.svg#gh-dark-mode-only)
 
