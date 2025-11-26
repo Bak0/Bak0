@@ -27,8 +27,7 @@ Welcome to my page; on my Github, you can find:
 
 #### 📜 Github stats:
 
-![GITHUB Stats](https://raw.githubusercontent.com/puliczek/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/puliczek/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![GITHUB Stats](https://raw.githubusercontent.com/puliczek/github-stats/master/generated/overview.svg#gh-light-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/puliczek/github-stats/master/generated/languages.svg#gh-light-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bak0)](https://github.com/anuraghazra/github-readme-stats)
 
 
 --- 
